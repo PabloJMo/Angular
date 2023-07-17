@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: linear-gradient(
+      to bottom right,
+      rgb(183, 229, 250),
+      rgb(90, 14, 67)
+    );
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    width: 100%; 
+    min-height: 100vh;
+}
